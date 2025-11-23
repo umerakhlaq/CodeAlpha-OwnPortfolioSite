@@ -1,4 +1,4 @@
-🌐 Muhammad Umer — Personal Portfolio
+*Muhammad Umer — Personal Portfolio*
 
 A clean, modern, and fully responsive personal portfolio website built using HTML, CSS, and JavaScript.
 This website highlights my skills, projects, experience, and contact details in a sleek and user-focused design.
@@ -83,6 +83,14 @@ Clone the repository:
 
 git clone https://github.com/umerakhlaq/your-repo-name.git
 
+
+Open in browser:
+
+open index.html
+
+
+No installation or setup required.
+
 🚀 Deployment
 
 This project is hosted using GitHub Pages.
@@ -110,7 +118,7 @@ Add animations using GSAP or Framer Motion
 
 If you want to collaborate or hire me, feel free to reach out:
 
-📧 Email: umerakhlaq2008@gmaail.com
+📧 Email: umerakhlaq2008@example.com
 
 📞 Phone: +92 310 258 1639
 🔗 LinkedIn: https://www.linkedin.com/in/umer-akhlaq-3b925a342/
