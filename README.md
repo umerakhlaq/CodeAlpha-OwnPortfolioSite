@@ -1,117 +1,72 @@
-#Muhammad Umer — Personal Portfolio#
+<strong>💼 Personal Portfolio Website — Muhammad Umer</strong>
 
-A clean, modern, and fully responsive personal portfolio website built using HTML, CSS, and JavaScript.
-This website highlights my skills, projects, experience, and contact details in a sleek and user-focused design.
+This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my skills, projects, experience, and contact details in a clean, modern, and responsive design.
 
-🚀 #Live Preview#
+<strong>✨ Features</strong>
 
-🔗 #Portfolio Link:# https://umerakhlaq.github.io/CodeAlpha_OwnPortfolioSite/
+Fully responsive modern layout
 
-✨ #Features#
+Smooth animations
 
-Fully responsive layout
+Mobile-friendly navbar
 
-Clean UI with smooth fade-in animations
+About, Projects, Resume & Contact sections
 
-Modern navbar with hamburger menu
+Clean and minimal UI/UX
 
-Project cards with external links
+<strong>🛠️ Technologies Used</strong>
 
-Resume section with skills, experience & education
+HTML5
 
-Contact section with email, phone & LinkedIn
+CSS3
 
-Fast performance — no frameworks required
+JavaScript
 
-🛠️ #Tech Stack#
+Google Fonts (Inter)
 
-HTML5 – Semantic structure
+<strong>📂 Sections Overview</strong>
+<strong>🔹 About Section</strong>
 
-CSS3 – Styling, layout, animations
+Short introduction and key focus areas.
 
-JavaScript (ES6) – Interactivity & mobile navigation
+<strong>🔹 Projects Section</strong>
 
-Google Fonts (Inter) – Modern typography
+3 main projects with live links.
 
-📁 #Folder Structure#
-📂 OwnPortfolioSite/
-│── index.html
-│── style.css
-└── script.js
+<strong>🔹 Resume Section</strong>
 
-📸 #Sections Overview#
-🔹 #About Me#
+Education, Experience & Skills.
 
-Intro, specialization & personal branding.
+<strong>🔹 Contact Section</strong>
 
-🔹 #Projects#
+Email • Phone • LinkedIn
 
-Showcasing selected work such as:
+<strong>🚀 Live Demo</strong>
 
-Portfolio Website
+Paste your GitHub Pages link here.
 
-Todo App
+<strong>📁 Folder Structure</strong>
 
-Weather App
+📦 portfolio-website
 
-🔹 #Resume#
+ ┣ 📜 index.html
+ 
+ ┣ 📜 style.css
+ 
+ ┗ 📜 script.js
 
-Includes:
+<strong>📥 How to Use</strong>
 
-Education
+Clone repository
 
-Internship Experience
+Open folder
 
-Technical Skills
+Run index.html in browser
 
-🔹 #Contact#
+<strong>📧 Contact Me</strong>
 
-Direct links for:
+Email: umerakhlaq2008@example.com
 
-Email
+Phone: +92 310 258 1639
 
-Phone
-
-LinkedIn
-
-📦 #Getting Started#
-
-#Clone the repository#:
-
-git clone https://github.com/umerakhlaq/your-repo-name.git
-
-🚀 #Deployment#
-
-This project is hosted using GitHub Pages.
-To deploy your own fork:
-
-Go to Repository Settings
-
-Open Pages section
-
-Select branch: main
-
-Save → Your site will be live!
-
-📌 #Future Enhancements#
-
-Add Dark/Light mode
-
-Add dedicated project pages
-
-Add contact form powered by backend
-
-Add animations using GSAP or Framer Motion
-
-📬 #Contact#
-
-If you want to collaborate or hire me, feel free to reach out:
-
-📧 #Email:# umerakhlaq2008@example.com
-
-📞 #Phone:# +92 310 258 1639
-🔗 #LinkedIn:# https://www.linkedin.com/in/umer-akhlaq-3b925a342/
-
-© License
-
-This project is open-source and available under the MIT License.
+LinkedIn: https://www.linkedin.com/in/umer-akhlaq-3b925a342/
